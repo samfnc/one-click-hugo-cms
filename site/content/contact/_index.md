@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/Fournine cloud - Web variant.svg"
 contact_entries:
   - heading: Location
     text: "2055 LimeStone Rd STE-200-C, Wilmington, DE 19808"
